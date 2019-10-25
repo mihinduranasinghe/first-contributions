@@ -32,6 +32,7 @@
 - [Maryam Allahverdi] (https://github.com/maryam1986)
 - [Daniel Ogenrwot](https://github.com/danielogen)
 -[Shreyansh Sharma](https://github.com/ShreyanshSharma21)
+- [mihinduranasinghe](https://github.com/mihinduranasinghe)
 - [Mohamed Imthath](https://github.com/imzi)
 - [Raja Ghosh](https://github.com/rajaghosh1)
 - [Olaf Minkowicz](https://github.com/RookTKO) 
